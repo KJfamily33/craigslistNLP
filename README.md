@@ -6,7 +6,9 @@ Introduction
 Craigslist makes money through only a few revenue streams. Most of the postings are free and there are only few avenues where they charge to post a job listing or apartment listing. This is true for only a few major cities. However, Craigslist’s aim is to provide the simplest functionality in the service of society.
 
 •	Situation and Complication- In order to help boost number of users and visit time, we propose to use the existing ‘Featured Listings’ section. In the current situation any listing gets into featured section based on the user likes. We propose to use this list of posts as a proxy for viral posts and predict the virality of a new post.
+
 •	Solution- We plan to use machine learnings algorithm to classify posts as viral/not viral. This will help to increase customer time on site and bring in new customers. We also plan to create a separate section for Obscene posts which might hurt the user satisfaction for a few users.
+
 •	Impact- This functionality would make it easier for website users to identify interesting and amusing posts. This move will potentially bring new users as people share posts with their friends. 
 
 Project objective 
